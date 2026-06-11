@@ -1,0 +1,553 @@
+,Brand,Model,Color,Storage,Rating,Price,Ram,Display Size,Display Type,Back Camera,Front Camera,Processor,Warranty
+0,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+1,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+2,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+3,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+4,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+5,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+6,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+7,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+8,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+9,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+10,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+11,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+12,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+13,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+14,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+15,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+16,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+17,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+18,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+19,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+20,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+21,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+22,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+23,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+24,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+25,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+26,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+27,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+28,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+29,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+30,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+31,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+32,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+33,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+34,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+35,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+36,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+37,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+38,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+39,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+40,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+41,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+42,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+43,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+44,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+45,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+46,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+47,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+48,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+49,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+50,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+51,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+52,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+53,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+54,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+55,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+56,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+57,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+58,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+59,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+60,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+61,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+62,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+63,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+64,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+65,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+66,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+67,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+68,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+69,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+70,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+71,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+72,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+73,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+74,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+75,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+76,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+77,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+78,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+79,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+80,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+81,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+82,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+83,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+84,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+85,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+86,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+87,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+88,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+89,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+90,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+91,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+92,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+93,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+94,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+95,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+96,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+97,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+98,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+99,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+100,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+101,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+102,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+103,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+104,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+105,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+106,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+107,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+108,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+109,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+110,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+111,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+112,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+113,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+114,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+115,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+116,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+117,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+118,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+119,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+120,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+121,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+122,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+123,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+124,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+125,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+126,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+127,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+128,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+129,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+130,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+131,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+132,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+133,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+134,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+135,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+136,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+137,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+138,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+139,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+140,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+141,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+142,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+143,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+144,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+145,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+146,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+147,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+148,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+149,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+150,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+151,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+152,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+153,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+154,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+155,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+156,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+157,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+158,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+159,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+160,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+161,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+162,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+163,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+164,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+165,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+166,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+167,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+168,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+169,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+170,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+171,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+172,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+173,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+174,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+175,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+176,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+177,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+178,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+179,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+180,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+181,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+182,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+183,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+184,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+185,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+186,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+187,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+188,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+189,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+190,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+191,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+192,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+193,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+194,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+195,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+196,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+197,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+198,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+199,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+200,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+201,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+202,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+203,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+204,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+205,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+206,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+207,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+208,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+209,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+210,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+211,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+212,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+213,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+214,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+215,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+216,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+217,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+218,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+219,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+220,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+221,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+222,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+223,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+224,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+225,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+226,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+227,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+228,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+229,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+230,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+231,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+232,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+233,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+234,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+235,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+236,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+237,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+238,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+239,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+240,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+241,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+242,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+243,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+244,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+245,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+246,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+247,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+248,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+249,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+250,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+251,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+252,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+253,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+254,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+255,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+256,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+257,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+258,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+259,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+260,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+261,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+262,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+263,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+264,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+265,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+266,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+267,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+268,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+269,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+270,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+271,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+272,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+273,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+274,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+275,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+276,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+277,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+278,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+279,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+280,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+281,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+282,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+283,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+284,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+285,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+286,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+287,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+288,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+289,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+290,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+291,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+292,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+293,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+294,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+295,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+296,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+297,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+298,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+299,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+300,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+301,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+302,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+303,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+304,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+305,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+306,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+307,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+308,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+309,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+310,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+311,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+312,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+313,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+314,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+315,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+316,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+317,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+318,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+319,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+320,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+321,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+322,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+323,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+324,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+325,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+326,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+327,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+328,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+329,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+330,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+331,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+332,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+333,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+334,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+335,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+336,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+337,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+338,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+339,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+340,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+341,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+342,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+343,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+344,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+345,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+346,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+347,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+348,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+349,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+350,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+351,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+352,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+353,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+354,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+355,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+356,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+357,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+358,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+359,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+360,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+361,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+362,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+363,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+364,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+365,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+366,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+367,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+368,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+369,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+370,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+371,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+372,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+373,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+374,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+375,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+376,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+377,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+378,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+379,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+380,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+381,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+382,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+383,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+384,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+385,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+386,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+387,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+388,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+389,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+390,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+391,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+392,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+393,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+394,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+395,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+396,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+397,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+398,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+399,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+400,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+401,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+402,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+403,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+404,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+405,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+406,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+407,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+408,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+409,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+410,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+411,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+412,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+413,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+414,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+415,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+416,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+417,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+418,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+419,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+420,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+421,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+422,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+423,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+424,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+425,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+426,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+427,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+428,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+429,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+430,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+431,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+432,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+433,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+434,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+435,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+436,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+437,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+438,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+439,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+440,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+441,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+442,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+443,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+444,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+445,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+446,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+447,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+448,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+449,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+450,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+451,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+452,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+453,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+454,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+455,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+456,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+457,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+458,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+459,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+460,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+461,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+462,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+463,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+464,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+465,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+466,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+467,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+468,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+469,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+470,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+471,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+472,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+473,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+474,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+475,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+476,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+477,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+478,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+479,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+480,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+481,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+482,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+483,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+484,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+485,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+486,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+487,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+488,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+489,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+490,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+491,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+492,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+493,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+494,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+495,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+496,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+497,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+498,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+499,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+500,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+501,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+502,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+503,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+504,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+505,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+506,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+507,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+508,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+509,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+510,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+511,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+512,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+513,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+514,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+515,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+516,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+517,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+518,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+519,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+520,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+521,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+522,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+523,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+524,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+525,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+526,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+527,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+528,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+529,Google,Pixel 10,Frost,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+530,Google,Pixel 10,Lemongrass,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+531,Google,Pixel 10,Obsidian,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+532,Google,Pixel 10,Indigo,256,4.5,73999,8,6.3,Quad HD+ Display,48mp,5mp,Tensor G5,1 Year
+533,Google,Pixel 10 Pro XL,Obsidian,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+534,Google,Pixel 10 Pro XL,Jade,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+535,Google,Pixel 10 Pro,Obsidian,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+536,Google,Pixel 10 Pro XL,Moonstone,256,4.6,124999,8,6.8,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+537,Google,Pixel 10 Pro,Porcelain,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+538,Google,Pixel 10 Pro,Moonstone,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+539,Google,Pixel 10 Pro,Jade,256,4.6,109999,8,6.3,Quad HD+ Display,48mp,42mp,Tensor G5,1 Year
+540,Google,Pixel 9A,Obsidian,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+541,Google,Pixel 9A,Porcelain,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+542,Google,Pixel 9A,Iris,256,4.5,39999,8,6.285,Full HD+ Display,48mp,12mp,Tensor G4,1 Year
+543,Google,Pixel 8a,Obsidian,256,4.3,56999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+544,Google,Pixel 8a,Bay,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+545,Google,Pixel 9,Porcelain,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+546,Google,Pixel 6a,Chalk,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+547,Google,Pixel 6a,Charcoal,128,4.3,43999,8,6.14,Full HD+ Display,12.2mp,8mp,Tensor,1 Year
+548,Google,Pixel 8a,Porcelain,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
+549,Google,Pixel 9,Obsidian,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+550,Google,Pixel 9,Wintergreen,256,4.6,79999,8,6.3,OLED Display,50mp,5mp,Tensor G4,1 Year
+551,Google,Pixel 8a,Obsidian,128,4.3,49999,8,6.1,Full HD+ Display,64mp,13mp,Tensor G3,1 Year
